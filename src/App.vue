@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import countries from './assets/country-book-data.json'
+import {timeline} from './assets/timeline-12-15-2025.json'
+import ReadList from './components/ReadList.vue'
 import BookList from './components/BookList.vue'
 import FullMap from './components/FullMap.vue'
 import { ref } from 'vue'
@@ -7,6 +9,7 @@ import { ref } from 'vue'
 const menu = ref()
 const map = ref()
 const countryBooks = ref([])
+const readListDialog = ref()
 
 function showModal() {
   menu.value.showModal()
@@ -15,6 +18,14 @@ function showModal() {
 function closeModal() {
   menu.value.close()
   countryBooks.value = []
+}
+
+function showReadList() {
+  readListDialog.value.showModal()
+}
+
+function closeReadList() {
+  readListDialog.value.close()
 }
 
 function zoomIn() {
@@ -35,7 +46,16 @@ function zoomOut() {
 
   <FullMap ref="map" />
 
+  <dialog ref="readListDialog" @close="closeReadList" :style="{width: '100vw', textAlign: 'center'}">
+    <button @click="closeReadList">X</button>
+
+    <ReadList :timeline="timeline" />
+  </dialog>
+
   <dialog ref="menu" @close="closeModal">
+    <button @click="showReadList">Read Books</button>
+    <br />
+    <br />
     <label for="country-select">Select a country</label>
     <br />
     <select id="country-select" v-model="countryBooks">

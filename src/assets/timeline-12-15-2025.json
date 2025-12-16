@@ -1,0 +1,4832 @@
+{
+  "timeline": [
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{D82BD5E1-796F-4D07-BE36-584AF99DE7FA}IMG100.JPG",
+        "title": "The Overstory",
+        "color": "#2A1E12",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Overstory",
+        "url": "https://share.libbyapp.com/title/3892397",
+        "titleId": "3892397"
+      },
+      "author": "Richard Powers",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781501982026",
+      "timestamp": 1765310758000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{B9F92BF5-8A70-4849-8B27-07C993353F84}Img100.jpg",
+        "title": "How to Stop Time",
+        "color": "#009EDD",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "How to Stop Time",
+        "url": "https://share.libbyapp.com/title/3400112",
+        "titleId": "3400112"
+      },
+      "author": "Matt Haig",
+      "publisher": "Books on Tape",
+      "isbn": "9780525587477",
+      "timestamp": 1765118660000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/7552-1/{B8B6E419-A29E-4059-8B0F-0DA5CC2AEDCB}IMG100.JPG",
+        "title": "Tress of the Emerald Sea",
+        "color": "#2E522E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Tress of the Emerald Sea",
+        "url": "https://share.libbyapp.com/title/9848187",
+        "titleId": "9848187"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Dragonsteel Entertainment, LLC",
+      "isbn": "9781938570421",
+      "timestamp": 1764981291000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{8C69904E-8F2D-45B3-A8B2-954ABA903157}IMG100.JPG",
+        "title": "The Omnivore's Dilemma",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Omnivore's Dilemma",
+        "url": "https://share.libbyapp.com/title/148812",
+        "titleId": "148812"
+      },
+      "author": "Michael Pollan",
+      "publisher": "Books on Tape",
+      "isbn": "9780786564200",
+      "timestamp": 1764685358000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{D96114CF-19E1-452C-99B7-6702FC24FE00}Img100.jpg",
+        "title": "The Shadowed Sun",
+        "color": "#07040B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Shadowed Sun",
+        "url": "https://share.libbyapp.com/title/1210428",
+        "titleId": "1210428"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781611132281",
+      "timestamp": 1764549347000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{0608821E-6606-468C-880F-E89541326963}IMG100.JPG",
+        "title": "The Sisters",
+        "color": "#DF62CA",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Sisters",
+        "url": "https://share.libbyapp.com/title/11939165",
+        "titleId": "11939165"
+      },
+      "author": "Jonas Hassen Khemiri",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250440273",
+      "timestamp": 1764435983000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/4575-1/{0281C63E-CB91-4270-B587-42F79613701A}Img100.jpg",
+        "title": "The Killing Moon",
+        "color": "#020204",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Killing Moon",
+        "url": "https://share.libbyapp.com/title/1210391",
+        "titleId": "1210391"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781611134414",
+      "timestamp": 1764270030000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0887-1/{144E391E-65EF-4ECF-B370-2F823B2E9DA7}IMG100.JPG",
+        "title": "Convenience Store Woman",
+        "color": "#00BBDA",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Convenience Store Woman",
+        "url": "https://share.libbyapp.com/title/3758480",
+        "titleId": "3758480"
+      },
+      "author": "Sayaka Murata",
+      "publisher": "Blackstone Publishing",
+      "timestamp": 1764083535000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{32BF98A6-756D-427B-B4E7-CB20B5F8C299}IMG100.JPG",
+        "title": "The Queen of Attolia",
+        "color": "#989DA0",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Queen of Attolia",
+        "url": "https://share.libbyapp.com/title/3124554",
+        "titleId": "3124554"
+      },
+      "author": "Megan Whalen Turner",
+      "publisher": "HarperCollins",
+      "isbn": "9780062693839",
+      "timestamp": 1763947911000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{A00567FC-1EF5-44EA-9D45-044CBE813C9E}IMG100.JPG",
+        "title": "The Thief",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Thief",
+        "url": "https://share.libbyapp.com/title/3124556",
+        "titleId": "3124556"
+      },
+      "author": "Megan Whalen Turner",
+      "publisher": "HarperCollins",
+      "isbn": "9780062693815",
+      "timestamp": 1763947902000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{FC6CA6E6-1746-497A-9CA2-5A752E0D85FE}Img100.jpg",
+        "title": "The Midnight Library",
+        "color": "#18243C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Midnight Library",
+        "url": "https://share.libbyapp.com/title/5328992",
+        "titleId": "5328992"
+      },
+      "author": "Matt Haig",
+      "publisher": "Books on Tape",
+      "isbn": "9780593340233",
+      "timestamp": 1762444862000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{00A74EFE-2483-4B90-BE0F-1A427B0897FA}Img100.jpg",
+        "title": "Last Argument of Kings",
+        "color": "#F3A462",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Last Argument of Kings",
+        "url": "https://share.libbyapp.com/title/2381569",
+        "titleId": "2381569"
+      },
+      "author": "Joe Abercrombie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478907831",
+      "timestamp": 1762354265000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/2343-1/{F4B951C4-A0EB-48FE-BB12-C474960AD594}IMG100.JPG",
+        "title": "Tinker Tailor Soldier Spy",
+        "color": "#231F20",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Tinker Tailor Soldier Spy",
+        "url": "https://share.libbyapp.com/title/10663651",
+        "titleId": "10663651"
+      },
+      "author": "John Le Carré",
+      "publisher": "Dreamscape Media",
+      "isbn": "9781666659825",
+      "timestamp": 1762106684000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{AB93422E-8F58-47A1-9DB8-F013BAF97986}IMG100.JPG",
+        "title": "Night Soldiers",
+        "color": "#08070C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Night Soldiers",
+        "url": "https://share.libbyapp.com/title/239075",
+        "titleId": "239075"
+      },
+      "author": "Alan Furst",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781436117067",
+      "timestamp": 1761665679000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{B6F2CF7D-563C-49A8-A20C-BA8A31A8BE36}IMG100.JPG",
+        "title": "Antimatter Blues",
+        "color": "#0B204F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Antimatter Blues",
+        "url": "https://share.libbyapp.com/title/8916739",
+        "titleId": "8916739"
+      },
+      "author": "Edward Ashton",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250880710",
+      "timestamp": 1761145076000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{1A848F53-6DFC-4717-A4C4-B8F4684851A8}Img100.jpg",
+        "title": "Before They Are Hanged",
+        "color": "#6A7787",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Before They Are Hanged",
+        "url": "https://share.libbyapp.com/title/2381562",
+        "titleId": "2381562"
+      },
+      "author": "Joe Abercrombie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478907824",
+      "timestamp": 1760537431000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{CC197D8C-A0C4-4E1B-85D1-51C4967EECB0}IMG100.JPG",
+        "title": "I Have No Mouth & I Must Scream and Other Works",
+        "color": "#002A06",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "I Have No Mouth & I Must Scream and Other Works",
+        "url": "https://share.libbyapp.com/title/6176696",
+        "titleId": "6176696"
+      },
+      "author": "Harlan Ellison",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781980041337",
+      "timestamp": 1760291653000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1219-1/{4FD47FEA-CFAA-488F-AF01-9FE0D51B0C1A}IMG100.JPG",
+        "title": "Someone You Can Build a Nest In",
+        "color": "#FD0000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Someone You Can Build a Nest In",
+        "url": "https://share.libbyapp.com/title/10393756",
+        "titleId": "10393756"
+      },
+      "author": "John Wiswell",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9798855524444",
+      "timestamp": 1759612429000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1088-1/{E4482767-29EF-409F-82EA-B90DE99616C4}Img100.jpg",
+        "title": "The First 90 Days",
+        "color": "#00ACB3",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The First 90 Days",
+        "url": "https://share.libbyapp.com/title/1266218",
+        "titleId": "1266218"
+      },
+      "author": "Michael D. Watkins",
+      "publisher": "Ascent Audio",
+      "isbn": "9781469025476",
+      "timestamp": 1759172152000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{7AD5EDFA-C544-4B69-80A2-9356BB99E131}Img100.jpg",
+        "title": "Atomic Habits",
+        "color": "#F9F7EB",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Atomic Habits",
+        "url": "https://share.libbyapp.com/title/3994890",
+        "titleId": "3994890"
+      },
+      "author": "James Clear",
+      "publisher": "Books on Tape",
+      "isbn": "9781524779269",
+      "timestamp": 1759067400000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{F395C316-26C3-4FDE-A3E3-E229F038851C}IMG100.JPG",
+        "title": "Wrong Place Wrong Time",
+        "color": "#030303",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Wrong Place Wrong Time",
+        "url": "https://share.libbyapp.com/title/8324926",
+        "titleId": "8324926"
+      },
+      "author": "Gillian McAllister",
+      "publisher": "HarperCollins",
+      "isbn": "9780063252387",
+      "timestamp": 1757696530000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{1EE07106-EA61-48A9-8A6B-B59CE3CFB729}IMG100.JPG",
+        "title": "Down Cemetery Road",
+        "color": "#4B1F5E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Down Cemetery Road",
+        "url": "https://share.libbyapp.com/title/12043628",
+        "titleId": "12043628"
+      },
+      "author": "Mick Herron",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9798897564361",
+      "timestamp": 1756772242000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{0B0A716A-034C-43E5-AA1C-B11AFF0014E9}IMG100.JPG",
+        "title": "Mal Goes to War",
+        "color": "#285E7A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Mal Goes to War",
+        "url": "https://share.libbyapp.com/title/9790850",
+        "titleId": "9790850"
+      },
+      "author": "Edward Ashton",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250333087",
+      "timestamp": 1756645935000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/7552-1/{FE2C918A-70B8-475C-ACA5-6D971CA48471}IMG100.JPG",
+        "title": "Yumi and the Nightmare Painter",
+        "color": "#16364F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Yumi and the Nightmare Painter",
+        "url": "https://share.libbyapp.com/title/9950465",
+        "titleId": "9950465"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Dragonsteel Entertainment, LLC",
+      "isbn": "9781938570445",
+      "timestamp": 1756300683000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0887-1/{297D7945-BB2F-4309-BD45-923D78B50B55}Img100.jpg",
+        "title": "Snuff",
+        "color": "#371A52",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Snuff",
+        "url": "https://share.libbyapp.com/title/639611",
+        "titleId": "639611"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "Blackstone Audio, Inc.",
+      "timestamp": 1755355864000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{594136F8-56B8-4CAC-8CE1-A78B18023292}IMG100.JPG",
+        "title": "Mickey7",
+        "color": "#ECA809",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Mickey7",
+        "url": "https://share.libbyapp.com/title/6241654",
+        "titleId": "6241654"
+      },
+      "author": "Edward Ashton",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250839619",
+      "timestamp": 1755092399000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/2343-1/{1E2572AD-0E2A-4CD3-86A3-D5EDCD2226F2}Img100.jpg",
+        "title": "Dodger",
+        "color": "#2B080C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Dodger",
+        "url": "https://share.libbyapp.com/title/1013503",
+        "titleId": "1013503"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "Dreamscape Media",
+      "isbn": "9781666590128",
+      "timestamp": 1754574472000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{203BC8A1-AE66-4E52-B758-8C7619E3318B}IMG100.JPG",
+        "title": "Cloud Atlas",
+        "color": "#60C9DF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Cloud Atlas",
+        "url": "https://share.libbyapp.com/title/150664",
+        "titleId": "150664"
+      },
+      "author": "David Mitchell",
+      "publisher": "Books on Tape",
+      "isbn": "9780739305058",
+      "timestamp": 1754140272000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{F5A97B33-0802-4ACE-82ED-DCCAF26CA4D0}Img100.jpg",
+        "title": "Going Postal",
+        "color": "#0175B2",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Going Postal",
+        "url": "https://share.libbyapp.com/title/76487",
+        "titleId": "76487"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "HarperCollins",
+      "isbn": "9780060824693",
+      "timestamp": 1753929674000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0887-1/{557C1469-26EF-4EA4-A7B1-631BCA4A5798}Img100.jpg",
+        "title": "The New Confessions of an Economic Hit Man",
+        "color": "#EF4234",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The New Confessions of an Economic Hit Man",
+        "url": "https://share.libbyapp.com/title/2411969",
+        "titleId": "2411969"
+      },
+      "author": "John Perkins",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781504666695",
+      "timestamp": 1753539698000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{3AC9FAC4-C8C2-469A-B700-82A8DC65546F}Img100.jpg",
+        "title": "Monstrous Regiment",
+        "color": "#F1E827",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Monstrous Regiment",
+        "url": "https://share.libbyapp.com/title/76293",
+        "titleId": "76293"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "HarperCollins",
+      "isbn": "9780060824570",
+      "timestamp": 1753369013000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0887-1/{78B292C2-4E83-47D1-BB56-E8A2150DCFCE}Img100.jpg",
+        "title": "The Blade Itself",
+        "color": "#D4B17B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Blade Itself",
+        "url": "https://share.libbyapp.com/title/2381579",
+        "titleId": "2381579"
+      },
+      "author": "Joe Abercrombie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478907817",
+      "timestamp": 1752548093000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1219-1/{DF7433C0-1DA7-4EC2-9D81-68D07E917A22}Img100.jpg",
+        "title": "We",
+        "color": "#EBBC84",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "We",
+        "url": "https://share.libbyapp.com/title/536020",
+        "titleId": "536020"
+      },
+      "author": "Yevgeny Zamyatin",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781452671604",
+      "timestamp": 1751397800000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{F788D1F7-7DA8-454E-ACB4-DBA89C57B628}Img100.jpg",
+        "title": "Raising Steam",
+        "color": "#8D6D47",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Raising Steam",
+        "url": "https://share.libbyapp.com/title/1371443",
+        "titleId": "1371443"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "Books on Tape",
+      "isbn": "9780804164542",
+      "timestamp": 1751064848000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{CB9784C0-C678-44CC-812F-A1CB418CA0CC}Img100.jpg",
+        "title": "The Shepherd's Crown",
+        "color": "#015270",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Shepherd's Crown",
+        "url": "https://share.libbyapp.com/title/2386294",
+        "titleId": "2386294"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "HarperCollins",
+      "isbn": "9780062430557",
+      "timestamp": 1750818881000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{EB03A451-F83E-4123-8CBF-D869028BBCA3}Img100.jpg",
+        "title": "Pachinko",
+        "color": "#729DAD",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Pachinko",
+        "url": "https://share.libbyapp.com/title/3007208",
+        "titleId": "3007208"
+      },
+      "author": "Min Jin Lee",
+      "publisher": "Hachette Audio",
+      "timestamp": 1749255260000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{7A2554C5-10A0-453F-B867-EA24694CD4FC}Img100.jpg",
+        "title": "Fer-De-Lance",
+        "color": "#461C8C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Fer-De-Lance",
+        "url": "https://share.libbyapp.com/title/116756",
+        "titleId": "116756"
+      },
+      "author": "Rex Stout",
+      "publisher": "Books on Tape",
+      "isbn": "9781415938249",
+      "timestamp": 1748957098000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/2343-1/{D51F331E-F2F8-430E-BED6-038EE4CA6ACC}IMG100.JPG",
+        "title": "The Vela",
+        "color": "#68D0C9",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Vela",
+        "url": "https://share.libbyapp.com/title/10699469",
+        "titleId": "10699469"
+      },
+      "author": "Yoon Ha Lee, Becky Chambers, S. L. Huang",
+      "publisher": "Serial Box",
+      "isbn": "9781682107195",
+      "timestamp": 1748351776000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{BF15D178-66E8-4B48-8D1F-3F532C808C06}IMG100.JPG",
+        "title": "The Emperor of Gladness",
+        "color": "#0E0B04",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Emperor of Gladness",
+        "url": "https://share.libbyapp.com/title/11220670",
+        "titleId": "11220670"
+      },
+      "author": "Ocean Vuong",
+      "publisher": "Books on Tape",
+      "isbn": "9798217071708",
+      "timestamp": 1748028908000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1219-1/{DE9B9577-15D7-41CE-B847-DB23F44EE448}IMG100.JPG",
+        "title": "Sinophagia",
+        "color": "#0B304A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Sinophagia",
+        "url": "https://share.libbyapp.com/title/11125444",
+        "titleId": "11125444"
+      },
+      "author": "Xueting Christine Ni",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9798855546576",
+      "timestamp": 1746055746000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/5054-1/{BC0222FF-419B-4FB4-B844-CBC6128B6E7D}Img100.jpg",
+        "title": "The House of the Spirits",
+        "color": "#F8F9F1",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The House of the Spirits",
+        "url": "https://share.libbyapp.com/title/2565706",
+        "titleId": "2565706"
+      },
+      "author": "Isabel Allende",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781508215257",
+      "timestamp": 1746021306000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{F472C356-3CE8-447C-A261-383F069F5D18}IMG100.JPG",
+        "title": "The Dispossessed",
+        "color": "#101D14",
+        "format": "ebook"
+      },
+      "title": {
+        "text": "The Dispossessed",
+        "url": "https://share.libbyapp.com/title/11154799",
+        "titleId": "11154799"
+      },
+      "author": "Ursula K. Le Guin",
+      "publisher": "HarperCollins",
+      "isbn": "9780063445796",
+      "timestamp": 1745854966000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{0474DA6F-F0EF-4B48-8758-72802A6CF84B}Img100.jpg",
+        "title": "Not Born Yesterday",
+        "color": "#AD1A2D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Not Born Yesterday",
+        "url": "https://share.libbyapp.com/title/5244685",
+        "titleId": "5244685"
+      },
+      "author": "Hugo Mercier",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781980051848",
+      "timestamp": 1745164007000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/2343-1/{37E283C9-2714-4ADE-82A6-738C45CBF034}IMG100.JPG",
+        "title": "10 Marchfield Square",
+        "color": "#FCEDDA",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "10 Marchfield Square",
+        "url": "https://share.libbyapp.com/title/11597456",
+        "titleId": "11597456"
+      },
+      "author": "Nicola Whyte",
+      "publisher": "Dreamscape Media",
+      "isbn": "9781666694246",
+      "timestamp": 1744842051000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{75D5073C-B787-454B-A035-0D32976553DC}IMG100.JPG",
+        "title": "We Solve Murders",
+        "color": "#FAF7EE",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "We Solve Murders",
+        "url": "https://share.libbyapp.com/title/10356164",
+        "titleId": "10356164"
+      },
+      "author": "Richard Osman",
+      "publisher": "Books on Tape",
+      "isbn": "9780593912133",
+      "timestamp": 1744483191000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{3F699CE2-AB41-4B74-8F16-1102F429D067}Img100.jpg",
+        "title": "The Galaxy, and the Ground Within",
+        "color": "#2A2A2A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Galaxy, and the Ground Within",
+        "url": "https://share.libbyapp.com/title/5546986",
+        "titleId": "5546986"
+      },
+      "author": "Becky Chambers",
+      "publisher": "HarperCollins",
+      "isbn": "9780063069190",
+      "timestamp": 1743946666000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{28382DC3-CD65-4908-A014-1802E8A3F2CC}Img100.jpg",
+        "title": "Record of a Spaceborn Few",
+        "color": "#331F20",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Record of a Spaceborn Few",
+        "url": "https://share.libbyapp.com/title/4147724",
+        "titleId": "4147724"
+      },
+      "author": "Becky Chambers",
+      "publisher": "HarperCollins",
+      "isbn": "9780062898968",
+      "timestamp": 1743946643000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{FC8489CC-5ECD-48C1-91D9-74DE2841863F}Img100.jpg",
+        "title": "Why Nations Fail",
+        "color": "#9AC9D3",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Why Nations Fail",
+        "url": "https://share.libbyapp.com/title/598229",
+        "titleId": "598229"
+      },
+      "author": "Daron Acemoglu, James A. Robinson",
+      "publisher": "Books on Tape",
+      "isbn": "9780307987464",
+      "timestamp": 1743254863000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{F370D5DB-F50D-43C1-B43F-65BE4EEF4C6B}IMG100.JPG",
+        "title": "Worlds of Exile and Illusion",
+        "color": "#050E2F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Worlds of Exile and Illusion",
+        "url": "https://share.libbyapp.com/title/10287395",
+        "titleId": "10287395"
+      },
+      "author": "Ursula K. Le Guin",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9798891785571",
+      "timestamp": 1742842222000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{B72D543F-585F-4A98-9613-78536028B98C}IMG100.JPG",
+        "title": "The Thursday Murder Club",
+        "color": "#2E2514",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Thursday Murder Club",
+        "url": "https://share.libbyapp.com/title/5294825",
+        "titleId": "5294825"
+      },
+      "author": "Richard Osman",
+      "publisher": "Books on Tape",
+      "isbn": "9780593289501",
+      "timestamp": 1742666814000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{0F40E6E2-7DB5-49FE-B665-65B327DDA751}IMG100.JPG",
+        "title": "Translation State",
+        "color": "#E41F26",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Translation State",
+        "url": "https://share.libbyapp.com/title/9267960",
+        "titleId": "9267960"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549164835",
+      "timestamp": 1742389855000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{C5307A80-DF38-46B5-A5B5-AAE556473F79}Img100.jpg",
+        "title": "Stranger in a Strange Land",
+        "color": "#28496C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Stranger in a Strange Land",
+        "url": "https://share.libbyapp.com/title/250418",
+        "titleId": "250418"
+      },
+      "author": "Robert A. Heinlein",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483068923",
+      "timestamp": 1740798842000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/4575-1/{07268457-093B-4C07-BD7A-936E5EEDD4CB}IMG100.JPG",
+        "title": "Provenance",
+        "color": "#27AAE2",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Provenance",
+        "url": "https://share.libbyapp.com/title/3230434",
+        "titleId": "3230434"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478923176",
+      "timestamp": 1740798806000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{4456BD6C-F0C4-4C7B-80E9-6BD545931BE7}IMG100.JPG",
+        "title": "Gideon the Ninth",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Gideon the Ninth",
+        "url": "https://share.libbyapp.com/title/4942008",
+        "titleId": "4942008"
+      },
+      "author": "Tamsyn Muir",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781980004905",
+      "timestamp": 1740534938000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{67B1D818-F729-4DAC-9239-69FECE36C5A4}IMG100.JPG",
+        "title": "Ancillary Mercy",
+        "color": "#01B093",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Ancillary Mercy",
+        "url": "https://share.libbyapp.com/title/2405799",
+        "titleId": "2405799"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478960140",
+      "timestamp": 1740502305000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{BA5F236F-B937-4443-9734-BDAEDAE956AC}Img100.jpg",
+        "title": "Persephone Station",
+        "color": "#A91F2E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Persephone Station",
+        "url": "https://share.libbyapp.com/title/5688693",
+        "titleId": "5688693"
+      },
+      "author": "Stina Leicht",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781980090908",
+      "timestamp": 1740348908000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{EFA42028-ECF8-4D84-BCD2-A29A3DA51F8F}Img100.jpg",
+        "title": "A Closed and Common Orbit",
+        "color": "#0E100F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Closed and Common Orbit",
+        "url": "https://share.libbyapp.com/title/4660514",
+        "titleId": "4660514"
+      },
+      "author": "Becky Chambers",
+      "publisher": "HarperCollins",
+      "isbn": "9780062969569",
+      "timestamp": 1738951618000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{A19E9E50-5E65-4035-9391-E8413372BEE3}IMG100.JPG",
+        "title": "Ancillary Sword",
+        "color": "#F9C845",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Ancillary Sword",
+        "url": "https://share.libbyapp.com/title/1980634",
+        "titleId": "1980634"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478931263",
+      "timestamp": 1738905173000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{0500730A-2BCE-4A76-B71A-384EE842F87B}Img100.jpg",
+        "title": "The Jungle",
+        "color": "#FFFFF3",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Jungle",
+        "url": "https://share.libbyapp.com/title/76838",
+        "titleId": "76838"
+      },
+      "author": "Upton Sinclair",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483090405",
+      "timestamp": 1738877168000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/4575-1/{343684DA-6345-4EE6-962E-24A334C2AF27}IMG100.JPG",
+        "title": "Ancillary Justice",
+        "color": "#E41F26",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Ancillary Justice",
+        "url": "https://share.libbyapp.com/title/4238641",
+        "titleId": "4238641"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549174902",
+      "timestamp": 1737952036000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{0500730A-2BCE-4A76-B71A-384EE842F87B}Img100.jpg",
+        "title": "The Jungle",
+        "color": "#FFFFF3",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Jungle",
+        "url": "https://share.libbyapp.com/title/76838",
+        "titleId": "76838"
+      },
+      "author": "Upton Sinclair",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483090405",
+      "timestamp": 1737595433000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{E7C71FE6-D3ED-459F-87E6-E4868F92CD4A}Img100.jpg",
+        "title": "The Long Way to a Small, Angry Planet",
+        "color": "#191A1F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Long Way to a Small, Angry Planet",
+        "url": "https://share.libbyapp.com/title/4660553",
+        "titleId": "4660553"
+      },
+      "author": "Becky Chambers",
+      "publisher": "HarperCollins",
+      "isbn": "9780062969538",
+      "timestamp": 1737400294000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1219-1/{94C7BAF4-E582-414E-8254-AD7657B76563}Img100.jpg",
+        "title": "The Monkey Wrench Gang",
+        "color": "#DEE2E5",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Monkey Wrench Gang",
+        "url": "https://share.libbyapp.com/title/845001",
+        "titleId": "845001"
+      },
+      "author": "Edward Abbey",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781452676913",
+      "timestamp": 1736776925000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{7C55CF17-1DCD-4B53-A1E8-A044A98C84C6}Img100.jpg",
+        "title": "The Drawing of the Three",
+        "color": "#2F2E36",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Drawing of the Three",
+        "url": "https://share.libbyapp.com/title/148745",
+        "titleId": "148745"
+      },
+      "author": "Stephen King",
+      "publisher": "Penguin Random House Audio Publishing Group",
+      "timestamp": 1736175377000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{A0B8DCE6-E708-42F0-BC2A-358E7A1A324E}Img100.jpg",
+        "title": "Dune Messiah",
+        "color": "#060606",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Dune Messiah",
+        "url": "https://share.libbyapp.com/title/142221",
+        "titleId": "142221"
+      },
+      "author": "Frank Herbert",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427202376",
+      "timestamp": 1735929038000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0887-1/{DA9F9F53-8B97-4952-AE9C-0A321CCF0305}Img100.jpg",
+        "title": "Oil!",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Oil!",
+        "url": "https://share.libbyapp.com/title/162611",
+        "titleId": "162611"
+      },
+      "author": "Upton Sinclair",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483075709",
+      "timestamp": 1735690475000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{4AF5FB0F-C16D-4056-B691-856E4F0CBD0A}IMG100.JPG",
+        "title": "Finlay Donovan Is Killing It",
+        "color": "#F48898",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Finlay Donovan Is Killing It",
+        "url": "https://share.libbyapp.com/title/5462436",
+        "titleId": "5462436"
+      },
+      "author": "Elle Cosimano",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250790057",
+      "timestamp": 1735484647000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{9158CCEC-09EB-4FFB-8586-87A7431429C5}Img100.jpg",
+        "title": "Isaac's Storm",
+        "color": "#6E7A88",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Isaac's Storm",
+        "url": "https://share.libbyapp.com/title/4857350",
+        "titleId": "4857350"
+      },
+      "author": "Erik Larson",
+      "publisher": "Books on Tape",
+      "isbn": "9780593163542",
+      "timestamp": 1735305336000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{D91B7033-FAD9-49CE-A468-BB3B950FD5D5}IMG100.JPG",
+        "title": "Dune",
+        "color": "#4C282C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Dune",
+        "url": "https://share.libbyapp.com/title/2308988",
+        "titleId": "2308988"
+      },
+      "author": "Frank Herbert",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427201447",
+      "timestamp": 1735261148000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{52D9168B-B6D4-4599-A022-44EC8A6FE1EE}IMG100.JPG",
+        "title": "The Devil in the White City",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Devil in the White City",
+        "url": "https://share.libbyapp.com/title/114553",
+        "titleId": "114553"
+      },
+      "author": "Erik Larson",
+      "publisher": "Books on Tape",
+      "isbn": "9780736697750",
+      "timestamp": 1735061611000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0992-1/{AF94D56E-EA24-4F5A-B8A4-232137579605}Img100.jpg",
+        "title": "Candide, and Zadig",
+        "color": "#C8242B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Candide, and Zadig",
+        "url": "https://share.libbyapp.com/title/188534",
+        "titleId": "188534"
+      },
+      "author": "Voltaire",
+      "publisher": "Naxos AudioBooks",
+      "isbn": "9789629547820",
+      "timestamp": 1734708985000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{F6ECD875-B61E-4D36-AA61-EDFEAB2BFF41}IMG100.JPG",
+        "title": "Wicked",
+        "color": "#0F1410",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Wicked",
+        "url": "https://share.libbyapp.com/title/2943031",
+        "titleId": "2943031"
+      },
+      "author": "Gregory Maguire",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781440780493",
+      "timestamp": 1734618261000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{1B32D163-6220-4131-AF23-490682E44FE3}Img100.jpg",
+        "title": "A Deadly Education",
+        "color": "#F6E9B5",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Deadly Education",
+        "url": "https://share.libbyapp.com/title/5215924",
+        "titleId": "5215924"
+      },
+      "author": "Naomi Novik",
+      "publisher": "Books on Tape",
+      "isbn": "9780593287415",
+      "timestamp": 1734273631000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1219-1/{C0E08DF6-DCF4-4405-843C-62924140278E}Img100.jpg",
+        "title": "The Ghost Map",
+        "color": "#A69E87",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Ghost Map",
+        "url": "https://share.libbyapp.com/title/117942",
+        "titleId": "117942"
+      },
+      "author": "Steven Johnson",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781400172986",
+      "timestamp": 1733756208000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{0F40E6E2-7DB5-49FE-B665-65B327DDA751}IMG100.JPG",
+        "title": "Translation State",
+        "color": "#E41F26",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Translation State",
+        "url": "https://share.libbyapp.com/title/9267960",
+        "titleId": "9267960"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549164835",
+      "timestamp": 1733715979000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/4575-1/{C349A157-8454-450E-80AA-29CACCEC96F9}IMG100.JPG",
+        "title": "The Raven Tower",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Raven Tower",
+        "url": "https://share.libbyapp.com/title/4395174",
+        "titleId": "4395174"
+      },
+      "author": "Ann Leckie",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549115790",
+      "timestamp": 1733715974000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/2343-1/{7C047544-76C2-47D5-AC8B-2BDC47187B05}IMG100.JPG",
+        "title": "The Coworker",
+        "color": "#020202",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Coworker",
+        "url": "https://share.libbyapp.com/title/9920610",
+        "titleId": "9920610"
+      },
+      "author": "Freida McFadden",
+      "publisher": "Hollywood Upstairs Press",
+      "isbn": "9781666646078",
+      "timestamp": 1733669842000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1219-1/{544CF6B8-4E9F-46A1-8003-3EAAFC8BF9FF}Img100.jpg",
+        "title": "The Locked Door",
+        "color": "#000106",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Locked Door",
+        "url": "https://share.libbyapp.com/title/6392426",
+        "titleId": "6392426"
+      },
+      "author": "Freida McFadden",
+      "publisher": "Tantor Media, Inc.",
+      "timestamp": 1733669834000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/2343-1/{15610205-6E69-4350-8639-DFCD398EBAB4}IMG100.JPG",
+        "title": "The Teacher",
+        "color": "#000E35",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Teacher",
+        "url": "https://share.libbyapp.com/title/10193977",
+        "titleId": "10193977"
+      },
+      "author": "Freida McFadden",
+      "publisher": "Hollywood Upstairs Press",
+      "isbn": "9781666652536",
+      "timestamp": 1733497700000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{A707631B-4683-478B-9A5B-51C46CF6D7B7}IMG100.JPG",
+        "title": "Tom Lake",
+        "color": "#7C99AB",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Tom Lake",
+        "url": "https://share.libbyapp.com/title/9350882",
+        "titleId": "9350882"
+      },
+      "author": "Ann Patchett",
+      "publisher": "HarperCollins",
+      "isbn": "9780063327559",
+      "timestamp": 1733237814000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/5054-1/{A42E554F-6265-4426-A129-47FEDE1EBC99}IMG100.JPG",
+        "title": "All the Light We Cannot See",
+        "color": "#032443",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "All the Light We Cannot See",
+        "url": "https://share.libbyapp.com/title/1395881",
+        "titleId": "1395881"
+      },
+      "author": "Anthony Doerr",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781442369375",
+      "timestamp": 1732828070000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/5054-1/{96AC2645-35D6-49E8-BECF-856758808B4D}IMG100.JPG",
+        "title": "The Gunslinger",
+        "color": "#341A0B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Gunslinger",
+        "url": "https://share.libbyapp.com/title/2517601",
+        "titleId": "2517601"
+      },
+      "author": "Stephen King",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781508217411",
+      "timestamp": 1732726318000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/5054-1/{FFB35E4A-3B8C-4232-BE8E-3CDE3E43C188}Img100.jpg",
+        "title": "Cloud Cuckoo Land",
+        "color": "#F5F7F6",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Cloud Cuckoo Land",
+        "url": "https://share.libbyapp.com/title/6032358",
+        "titleId": "6032358"
+      },
+      "author": "Anthony Doerr",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781797128535",
+      "timestamp": 1732466706000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{A3BEE61C-BCB9-471A-84E0-2BD739324181}IMG100.JPG",
+        "title": "Geek Love",
+        "color": "#DADADA",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Geek Love",
+        "url": "https://share.libbyapp.com/title/2852733",
+        "titleId": "2852733"
+      },
+      "author": "Katherine Dunn",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781428199071",
+      "timestamp": 1732285434000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/2343-1/{680EF348-F485-4327-BF36-87241B7EC147}IMG100.JPG",
+        "title": "The Boyfriend",
+        "color": "#FFFFFF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Boyfriend",
+        "url": "https://share.libbyapp.com/title/10714511",
+        "titleId": "10714511"
+      },
+      "author": "Freida McFadden",
+      "publisher": "Hollywood Upstairs Press",
+      "isbn": "9781666665642",
+      "timestamp": 1731826706000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{6E14091B-48CA-4F00-A3C3-6850D514446E}Img100.jpg",
+        "title": "American Gods",
+        "color": "#232124",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "American Gods",
+        "url": "https://share.libbyapp.com/title/588543",
+        "titleId": "588543"
+      },
+      "author": "Neil Gaiman",
+      "publisher": "HarperCollins",
+      "isbn": "9780062101914",
+      "timestamp": 1731207259000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{1CF0D5F7-4C1A-4772-95AE-7F172B722301}Img100.jpg",
+        "title": "A Memory of Light",
+        "color": "#033337",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Memory of Light",
+        "url": "https://share.libbyapp.com/title/1172258",
+        "titleId": "1172258"
+      },
+      "author": "Robert Jordan, Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427210258",
+      "timestamp": 1729861424000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{B4A8168E-A58E-4FB5-9396-B47A5DFDD391}Img100.jpg",
+        "title": "Shogun",
+        "color": "#F2F1EF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Shogun",
+        "url": "https://share.libbyapp.com/title/2056979",
+        "titleId": "2056979"
+      },
+      "author": "James Clavell",
+      "publisher": "Blackstone Publishing",
+      "timestamp": 1729609208000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0001-1/{C3B303B8-3671-4706-9358-0175B52B1D9D}Img100.jpg",
+        "title": "Assassin's Quest",
+        "color": "#899CA0",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Assassin's Quest",
+        "url": "https://share.libbyapp.com/title/1068105",
+        "titleId": "1068105"
+      },
+      "author": "Robin Hobb",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781400184361",
+      "timestamp": 1729036619000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{536DE080-5A58-449C-9BA1-C0E5A644024A}IMG100.JPG",
+        "title": "Towers of Midnight",
+        "color": "#B06F07",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Towers of Midnight",
+        "url": "https://share.libbyapp.com/title/451873",
+        "titleId": "451873"
+      },
+      "author": "Robert Jordan, Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427210234",
+      "timestamp": 1727653025000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0001-1/{5FF8D97C-4731-4E70-8A82-EA775E1CA149}Img100.jpg",
+        "title": "Royal Assassin",
+        "color": "#C1B487",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Royal Assassin",
+        "url": "https://share.libbyapp.com/title/335796",
+        "titleId": "335796"
+      },
+      "author": "Robin Hobb",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781400184354",
+      "timestamp": 1727624822000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{04E0C920-DAB2-49F2-821B-8DF46233F1D7}IMG100.JPG",
+        "title": "The Gathering Storm",
+        "color": "#114117",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Gathering Storm",
+        "url": "https://share.libbyapp.com/title/266320",
+        "titleId": "266320"
+      },
+      "author": "Robert Jordan, Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781593977689",
+      "timestamp": 1726667549000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{A9106BD8-F219-4C6E-834A-BACB671B2979}IMG100.JPG",
+        "title": "Somewhere Beyond the Sea",
+        "color": "#011A17",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Somewhere Beyond the Sea",
+        "url": "https://share.libbyapp.com/title/10180103",
+        "titleId": "10180103"
+      },
+      "author": "TJ Klune",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250331601",
+      "timestamp": 1726493991000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{C90E8471-7137-4ADD-8B38-FFF7C399C33F}IMG100.JPG",
+        "title": "Knife of Dreams",
+        "color": "#D46828",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Knife of Dreams",
+        "url": "https://share.libbyapp.com/title/509198",
+        "titleId": "509198"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941244",
+      "timestamp": 1726100811000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0001-1/{C3B303B8-3671-4706-9358-0175B52B1D9D}Img100.jpg",
+        "title": "Assassin's Quest",
+        "color": "#899CA0",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Assassin's Quest",
+        "url": "https://share.libbyapp.com/title/1068105",
+        "titleId": "1068105"
+      },
+      "author": "Robin Hobb",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781400184361",
+      "timestamp": 1725752233000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{27FEBC2A-D13B-425A-9A12-1E8DE0D74CB2}Img100.jpg",
+        "title": "Crossroads of Twilight",
+        "color": "#E5BE6F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Crossroads of Twilight",
+        "url": "https://share.libbyapp.com/title/509192",
+        "titleId": "509192"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941237",
+      "timestamp": 1725390164000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/5054-1/{8A6C7499-FC93-4ACB-A72E-FF3A85DED1A6}IMG100.JPG",
+        "title": "I'm Glad My Mom Died",
+        "color": "#EE759E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "I'm Glad My Mom Died",
+        "url": "https://share.libbyapp.com/title/8781418",
+        "titleId": "8781418"
+      },
+      "author": "Jennette McCurdy",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781797147949",
+      "timestamp": 1725221305000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{D00CB60A-DEE9-43D2-AAC6-37DFF935B653}IMG100.JPG",
+        "title": "Winter's Heart",
+        "color": "#527AAE",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Winter's Heart",
+        "url": "https://share.libbyapp.com/title/509214",
+        "titleId": "509214"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941268",
+      "timestamp": 1724620144000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{E58935F3-2771-4965-B602-9FA478C57EEF}IMG100.JPG",
+        "title": "The Whole-Brain Child",
+        "color": "#00A0AE",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Whole-Brain Child",
+        "url": "https://share.libbyapp.com/title/9157612",
+        "titleId": "9157612"
+      },
+      "author": "Daniel J. Siegel, MD, Tina Payne Bryson",
+      "publisher": "Books on Tape",
+      "isbn": "9780593683255",
+      "timestamp": 1723952925000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{273174AD-106B-4E95-8054-4D07E7BCBD50}Img100.jpg",
+        "title": "The Path of Daggers",
+        "color": "#08646F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Path of Daggers",
+        "url": "https://share.libbyapp.com/title/509212",
+        "titleId": "509212"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941220",
+      "timestamp": 1723656783000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0001-1/{2DA27FD5-1724-434D-92DF-841199508A99}Img100.jpg",
+        "title": "Assassin's Apprentice",
+        "color": "#506560",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Assassin's Apprentice",
+        "url": "https://share.libbyapp.com/title/776717",
+        "titleId": "776717"
+      },
+      "author": "Robin Hobb",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781400184347",
+      "timestamp": 1723299777000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{5CE46865-7390-466B-94AF-A4032081FC1F}IMG100.JPG",
+        "title": "I Heard Her Call My Name",
+        "color": "#E9DFC6",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "I Heard Her Call My Name",
+        "url": "https://share.libbyapp.com/title/9893119",
+        "titleId": "9893119"
+      },
+      "author": "Lucy Sante",
+      "publisher": "Books on Tape",
+      "isbn": "9780593829813",
+      "timestamp": 1722871675000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0290-1/{9C0E3BFD-8D6F-441C-B0F6-5CB2BBDDAFDE}Img100.jpg",
+        "title": "Letters from a Stoic",
+        "color": "#1E1F1A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Letters from a Stoic",
+        "url": "https://share.libbyapp.com/title/4864999",
+        "titleId": "4864999"
+      },
+      "author": "Seneca",
+      "publisher": "Penguin Books Ltd",
+      "isbn": "9780241429648",
+      "timestamp": 1722518793000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{E269D450-9153-41C1-B198-1DD0CD21D56D}Img100.jpg",
+        "title": "A Crown of Swords",
+        "color": "#4F5D9A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Crown of Swords",
+        "url": "https://share.libbyapp.com/title/509188",
+        "titleId": "509188"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941213",
+      "timestamp": 1722136034000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{256A3780-4398-4690-8608-3648B03470C9}IMG100.JPG",
+        "title": "Roadside Picnic",
+        "color": "#5D7263",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Roadside Picnic",
+        "url": "https://share.libbyapp.com/title/993448",
+        "titleId": "993448"
+      },
+      "author": "Arkady Strugatsky, Boris Strugatsky",
+      "publisher": "Books on Tape",
+      "isbn": "9780385367110",
+      "timestamp": 1722004591000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1219-1/{004A2430-B575-4348-922D-C717847B43FD}Img100.jpg",
+        "title": "Simplicity Parenting",
+        "color": "#1F1F1F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Simplicity Parenting",
+        "url": "https://share.libbyapp.com/title/716633",
+        "titleId": "716633"
+      },
+      "author": "Kim John Payne, M.Ed., Lisa M. Ross",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9781452675817",
+      "timestamp": 1721877132000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{8E2D7CB7-0763-4C63-8F1B-EC765729A41E}IMG100.JPG",
+        "title": "Grief Is for People",
+        "color": "#FCBD8A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Grief Is for People",
+        "url": "https://share.libbyapp.com/title/9805939",
+        "titleId": "9805939"
+      },
+      "author": "Sloane Crosley",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250332455",
+      "timestamp": 1721399131000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{5EBDD96B-E363-4329-8971-CCBD105570C7}Img100.jpg",
+        "title": "Lord of Chaos",
+        "color": "#FFCF58",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Lord of Chaos",
+        "url": "https://share.libbyapp.com/title/509199",
+        "titleId": "509199"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941206",
+      "timestamp": 1720616129000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{92C63301-D9D7-48B6-8A98-D60D35CDF6F5}IMG100.JPG",
+        "title": "The House in the Cerulean Sea",
+        "color": "#025C5A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The House in the Cerulean Sea",
+        "url": "https://share.libbyapp.com/title/4946976",
+        "titleId": "4946976"
+      },
+      "author": "TJ Klune",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250264299",
+      "timestamp": 1720015394000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{97861B5B-D522-4299-80B4-3EB384F0361A}IMG100.JPG",
+        "title": "A Canticle for Leibowitz",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Canticle for Leibowitz",
+        "url": "https://share.libbyapp.com/title/599601",
+        "titleId": "599601"
+      },
+      "author": "Walter M. Miller Jr.",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483053158",
+      "timestamp": 1719151364000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{E6708B90-8122-4899-86CF-1FB2C828E9C1}Img100.jpg",
+        "title": "The Fires of Heaven",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Fires of Heaven",
+        "url": "https://share.libbyapp.com/title/509207",
+        "titleId": "509207"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941190",
+      "timestamp": 1719151353000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{406B8127-AE10-4BDA-AD6C-C5E7B64FE3FB}IMG100.JPG",
+        "title": "Mobility",
+        "color": "#B9D3E0",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Mobility",
+        "url": "https://share.libbyapp.com/title/9991275",
+        "titleId": "9991275"
+      },
+      "author": "Lydia Kiesling",
+      "publisher": "Books on Tape",
+      "isbn": "9781666635898",
+      "timestamp": 1718839788000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{143E36B5-303C-4D67-B8EF-FEBD950F038E}IMG100.JPG",
+        "title": "The Shadow Rising",
+        "color": "#00ADEF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Shadow Rising",
+        "url": "https://share.libbyapp.com/title/509213",
+        "titleId": "509213"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941183",
+      "timestamp": 1717682672000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{6FF14273-D9E1-4EFE-B9B0-795BC4ADF53F}Img100.jpg",
+        "title": "New Spring",
+        "color": "#231F20",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "New Spring",
+        "url": "https://share.libbyapp.com/title/509200",
+        "titleId": "509200"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941275",
+      "timestamp": 1717349536000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{A38E1A4D-0B91-4832-8892-0C4E517C6926}IMG100.JPG",
+        "title": "Tomorrow, and Tomorrow, and Tomorrow",
+        "color": "#F9F2D8",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Tomorrow, and Tomorrow, and Tomorrow",
+        "url": "https://share.libbyapp.com/title/7351331",
+        "titleId": "7351331"
+      },
+      "author": "Gabrielle Zevin",
+      "publisher": "Books on Tape",
+      "isbn": "9780593591635",
+      "timestamp": 1716761680000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{95F78D07-706B-4140-BFF3-4C3CBADDBBC5}Img100.jpg",
+        "title": "The Dragon Reborn",
+        "color": "#D1322F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Dragon Reborn",
+        "url": "https://share.libbyapp.com/title/509205",
+        "titleId": "509205"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941176",
+      "timestamp": 1715226383000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{027A3389-D2F7-46BF-AC2F-9AED4562145A}Img100.jpg",
+        "title": "The Great Hunt",
+        "color": "#231F20",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Great Hunt",
+        "url": "https://share.libbyapp.com/title/509208",
+        "titleId": "509208"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941169",
+      "timestamp": 1714706006000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0992-1/{00F6BC30-1F48-487F-88B1-232AD5EF4787}Img100.jpg",
+        "title": "Meditations",
+        "color": "#00471B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Meditations",
+        "url": "https://share.libbyapp.com/title/352112",
+        "titleId": "352112"
+      },
+      "author": "Marcus Aurelius",
+      "publisher": "Naxos AudioBooks",
+      "isbn": "9789629549671",
+      "timestamp": 1714611425000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0887-1/{82E85EE2-643C-476A-AD91-2D26800D40A9}Img100.jpg",
+        "title": "The City We Became",
+        "color": "#6F4A5C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The City We Became",
+        "url": "https://share.libbyapp.com/title/5131516",
+        "titleId": "5131516"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549119736",
+      "timestamp": 1714271199000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{533BA0A9-7E4C-434E-BFDF-104D95D4639D}IMG100.JPG",
+        "title": "The Paris Apartment",
+        "color": "#0B3D3E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Paris Apartment",
+        "url": "https://share.libbyapp.com/title/6415110",
+        "titleId": "6415110"
+      },
+      "author": "Lucy Foley",
+      "publisher": "HarperCollins",
+      "isbn": "9780063003088",
+      "timestamp": 1714099842000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{D9684F1E-4DDE-48A8-AF26-514500383AB2}Img100.jpg",
+        "title": "The Guest List",
+        "color": "#303940",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Guest List",
+        "url": "https://share.libbyapp.com/title/4883753",
+        "titleId": "4883753"
+      },
+      "author": "Lucy Foley",
+      "publisher": "HarperCollins",
+      "isbn": "9780062985057",
+      "timestamp": 1713905455000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/2343-1/{CBEDAC76-023C-42CF-9250-F765D7269C77}IMG100.JPG",
+        "title": "Death in the Spires",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Death in the Spires",
+        "url": "https://share.libbyapp.com/title/10605918",
+        "titleId": "10605918"
+      },
+      "author": "KJ Charles",
+      "publisher": "Storm Publishing",
+      "isbn": "9781805082293",
+      "timestamp": 1713658742000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{EFF47277-0B09-4183-8D00-75AA83555391}Img100.jpg",
+        "title": "Screamfree Parenting",
+        "color": "#FFFFFF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Screamfree Parenting",
+        "url": "https://share.libbyapp.com/title/133434",
+        "titleId": "133434"
+      },
+      "author": "Hal Runkel, LMFT",
+      "publisher": "Books on Tape",
+      "isbn": "9780739357217",
+      "timestamp": 1713478072000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{69CF5DCF-E3DA-42F1-87B9-E30F6E57861B}Img100.jpg",
+        "title": "The Eye of the World",
+        "color": "#46526A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Eye of the World",
+        "url": "https://share.libbyapp.com/title/509206",
+        "titleId": "509206"
+      },
+      "author": "Robert Jordan",
+      "publisher": "Books on Tape",
+      "isbn": "9780307941152",
+      "timestamp": 1712933111000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{7DE46028-1A90-48C4-94EE-9434883C791C}Img100.jpg",
+        "title": "Atlas Shrugged",
+        "color": "#48494B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Atlas Shrugged",
+        "url": "https://share.libbyapp.com/title/104421",
+        "titleId": "104421"
+      },
+      "author": "Ayn Rand",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781483086729",
+      "timestamp": 1711746095000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{0FA9AEF5-F1B7-4864-A98F-4B8C6D3821B7}IMG100.JPG",
+        "title": "A+ Parenting",
+        "color": "#EDEDEB",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A+ Parenting",
+        "url": "https://share.libbyapp.com/title/9496603",
+        "titleId": "9496603"
+      },
+      "author": "Eva Moskowitz, Eric Grannis",
+      "publisher": "HarperCollins",
+      "isbn": "9780063310247",
+      "timestamp": 1711470022000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1088-1/{B2523151-1801-422D-8FD4-F97B6F1FB42F}Img100.jpg",
+        "title": "The Body Keeps the Score",
+        "color": "#535190",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Body Keeps the Score",
+        "url": "https://share.libbyapp.com/title/2056264",
+        "titleId": "2056264"
+      },
+      "author": "Bessel van der Kolk",
+      "publisher": "Gildan Media",
+      "timestamp": 1710390251000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/4575-1/{DD27414A-2779-4BF3-8CA5-BC92972AB988}Img100.jpg",
+        "title": "The Stone Sky",
+        "color": "#0A080D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Stone Sky",
+        "url": "https://share.libbyapp.com/title/3063969",
+        "titleId": "3063969"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478916291",
+      "timestamp": 1708566115000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1219-1/{04A86365-21B5-49E4-BA14-C146C2B67DCC}IMG100.JPG",
+        "title": "The Shortest History of Israel and Palestine",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Shortest History of Israel and Palestine",
+        "url": "https://share.libbyapp.com/title/9631532",
+        "titleId": "9631532"
+      },
+      "author": "Michael Scott-Baumann",
+      "publisher": "Tantor Media, Inc",
+      "isbn": "9798350808506",
+      "timestamp": 1708443395000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/4575-1/{12983315-4DC4-40E5-AA39-7C22B1CFE674}IMG100.JPG",
+        "title": "The Obelisk Gate",
+        "color": "#48293B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Obelisk Gate",
+        "url": "https://share.libbyapp.com/title/2903511",
+        "titleId": "2903511"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478964391",
+      "timestamp": 1708007406000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{8891610E-2FE6-4829-BA67-63102D0A8FBF}IMG100.JPG",
+        "title": "Iron Gold",
+        "color": "#FFFFFF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Iron Gold",
+        "url": "https://share.libbyapp.com/title/3726225",
+        "titleId": "3726225"
+      },
+      "author": "Pierce Brown",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781501959790",
+      "timestamp": 1707263852000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{392A6A03-E0AA-4F67-AE6C-06F6CB4A32C1}IMG100.JPG",
+        "title": "Morning Star",
+        "color": "#020113",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Morning Star",
+        "url": "https://share.libbyapp.com/title/3783744",
+        "titleId": "3783744"
+      },
+      "author": "Pierce Brown",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781501904417",
+      "timestamp": 1706982433000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{E2B864F8-D9B8-42D9-BD83-D0745C5E7BA4}IMG100.JPG",
+        "title": "Golden Son",
+        "color": "#040001",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Golden Son",
+        "url": "https://share.libbyapp.com/title/2083773",
+        "titleId": "2083773"
+      },
+      "author": "Pierce Brown",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781470380410",
+      "timestamp": 1706480040000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/4575-1/{886C4004-DEC6-4D17-B86B-FF34FA2F9D89}Img100.jpg",
+        "title": "The Fifth Season",
+        "color": "#2A3D43",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Fifth Season",
+        "url": "https://share.libbyapp.com/title/2348805",
+        "titleId": "2348805"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781478900832",
+      "timestamp": 1705468367000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{1809A2CA-59D5-4B6E-9F68-528EFE9BEC12}IMG100.JPG",
+        "title": "That's Not My Name",
+        "color": "#0E130F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "That's Not My Name",
+        "url": "https://share.libbyapp.com/title/10259401",
+        "titleId": "10259401"
+      },
+      "author": "Megan Lally",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9798891784406",
+      "timestamp": 1704815116000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{722EE967-2053-43A8-8222-B311B238146E}IMG100.JPG",
+        "title": "The Hero of Ages",
+        "color": "#241D2F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Hero of Ages",
+        "url": "https://share.libbyapp.com/title/504922",
+        "titleId": "504922"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427206398",
+      "timestamp": 1703697972000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{17814E24-F3B4-4C4C-92AB-EBFF50E987CD}IMG100.JPG",
+        "title": "The Well of Ascension",
+        "color": "#314546",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Well of Ascension",
+        "url": "https://share.libbyapp.com/title/317012",
+        "titleId": "317012"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427206381",
+      "timestamp": 1702908532000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{E55BD724-CEC3-455D-871E-AD3F57E00134}IMG100.JPG",
+        "title": "Legends & Lattes",
+        "color": "#51300F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Legends & Lattes",
+        "url": "https://share.libbyapp.com/title/9040705",
+        "titleId": "9040705"
+      },
+      "author": "Travis Baldree",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250889652",
+      "timestamp": 1702306457000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{8910AF73-35BD-40B4-8CAE-C5FE741D2D1D}IMG100.JPG",
+        "title": "Red Rising",
+        "color": "#050505",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Red Rising",
+        "url": "https://share.libbyapp.com/title/1550522",
+        "titleId": "1550522"
+      },
+      "author": "Pierce Brown",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781470380281",
+      "timestamp": 1702227228000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{63BAB07F-28D2-4ED4-A068-F071203A2A05}IMG100.JPG",
+        "title": "Rhythm of War",
+        "color": "#131217",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Rhythm of War",
+        "url": "https://share.libbyapp.com/title/5151838",
+        "titleId": "5151838"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250759788",
+      "timestamp": 1700356741000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{187204B3-9565-4D50-B799-FF211647AD0D}IMG100.JPG",
+        "title": "Dawnshard",
+        "color": "#060807",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Dawnshard",
+        "url": "https://share.libbyapp.com/title/9064853",
+        "titleId": "9064853"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781705076439",
+      "timestamp": 1700095070000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{DA595BD6-5A24-4685-A76D-7CF779803D39}Img100.jpg",
+        "title": "Oathbringer",
+        "color": "#3F130A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Oathbringer",
+        "url": "https://share.libbyapp.com/title/3284488",
+        "titleId": "3284488"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427275936",
+      "timestamp": 1698679596000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{C3B86993-84E6-4586-B7F7-13A479CE8E64}Img100.jpg",
+        "title": "Edgedancer",
+        "color": "#0D0E10",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Edgedancer",
+        "url": "https://share.libbyapp.com/title/3284426",
+        "titleId": "3284426"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "timestamp": 1698086066000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{69C771CA-6528-4EDB-9DB1-E93FA61DC4B7}IMG100.JPG",
+        "title": "Words of Radiance",
+        "color": "#05A9AA",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Words of Radiance",
+        "url": "https://share.libbyapp.com/title/1555923",
+        "titleId": "1555923"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427233080",
+      "timestamp": 1696797337000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{7B6AF753-1AD4-4DF2-9CAB-29F6AF7BE12A}IMG100.JPG",
+        "title": "Death's End",
+        "color": "#070707",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Death's End",
+        "url": "https://share.libbyapp.com/title/2938117",
+        "titleId": "2938117"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427268303",
+      "timestamp": 1695906326000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{6CD5999B-84C7-4BF0-B60C-873907CEC96F}IMG100.JPG",
+        "title": "The Dark Forest",
+        "color": "#1E191D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Dark Forest",
+        "url": "https://share.libbyapp.com/title/2259676",
+        "titleId": "2259676"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427268297",
+      "timestamp": 1694980609000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/4575-1/{8CE92002-F936-4D0D-B252-76432D7319C5}Img100.jpg",
+        "title": "The Hundred Thousand Kingdoms",
+        "color": "#5D4224",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Hundred Thousand Kingdoms",
+        "url": "https://share.libbyapp.com/title/4027010",
+        "titleId": "4027010"
+      },
+      "author": "N. K. Jemisin",
+      "publisher": "Hachette Audio",
+      "isbn": "9781549119040",
+      "timestamp": 1693664325000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1493-1/{BD000BD9-3A9C-402C-A31A-D01A74C5F16A}Img100.jpg",
+        "title": "The Final Empire",
+        "color": "#5B456C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Final Empire",
+        "url": "https://share.libbyapp.com/title/251230",
+        "titleId": "251230"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427206374",
+      "timestamp": 1692631928000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0887-1/{BFBB43A3-55AD-4CF8-B5B7-352E9DA52B3B}Img100.jpg",
+        "title": "A Visit from the Goon Squad",
+        "color": "#B7E1DF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Visit from the Goon Squad",
+        "url": "https://share.libbyapp.com/title/347479",
+        "titleId": "347479"
+      },
+      "author": "Jennifer Egan",
+      "publisher": "Blackstone Publishing",
+      "timestamp": 1692631920000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0887-1/{26476A96-FD1D-45F6-A057-B1660092FB3A}Img100.jpg",
+        "title": "The Mummy Case",
+        "color": "#AE8557",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Mummy Case",
+        "url": "https://share.libbyapp.com/title/76854",
+        "titleId": "76854"
+      },
+      "author": "Elizabeth Peters",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781481578547",
+      "timestamp": 1692397346000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{A2957C71-0ACA-4F1E-8641-083A95C7D697}IMG100.JPG",
+        "title": "Mad Honey",
+        "color": "#F0830C",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Mad Honey",
+        "url": "https://share.libbyapp.com/title/8721066",
+        "titleId": "8721066"
+      },
+      "author": "Jodi Picoult, Jennifer Finney Boylan",
+      "publisher": "Books on Tape",
+      "isbn": "9780593614105",
+      "timestamp": 1692020407000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{E636D96C-F791-4B3E-A7AD-DD1C778D9C0A}Img100.jpg",
+        "title": "The Curse of the Pharaohs",
+        "color": "#000000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Curse of the Pharaohs",
+        "url": "https://share.libbyapp.com/title/66477",
+        "titleId": "66477"
+      },
+      "author": "Elizabeth Peters",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781481578608",
+      "timestamp": 1691179393000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{8FB4B307-BD64-40DE-A011-86E1866F0D82}Img100.jpg",
+        "title": "The Way of Kings",
+        "color": "#1E396E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Way of Kings",
+        "url": "https://share.libbyapp.com/title/347510",
+        "titleId": "347510"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427209764",
+      "timestamp": 1689773999000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{E865FBC4-6E05-4F87-B780-728E64158A2C}IMG100.JPG",
+        "title": "The Three-Body Problem",
+        "color": "#1D487D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Three-Body Problem",
+        "url": "https://share.libbyapp.com/title/2001573",
+        "titleId": "2001573"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427251992",
+      "timestamp": 1688601731000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{6C3057C2-873B-4377-B4A2-FEC804A4687E}IMG100.JPG",
+        "title": "Crocodile on the Sandbank",
+        "color": "#87A2D1",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Crocodile on the Sandbank",
+        "url": "https://share.libbyapp.com/title/258768",
+        "titleId": "258768"
+      },
+      "author": "Elizabeth Peters",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781440780769",
+      "timestamp": 1688167079000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{B52C0F9C-302C-41B7-896C-78A2B3796939}Img100.jpg",
+        "title": "Set My Heart to Five",
+        "color": "#FEDE00",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Set My Heart to Five",
+        "url": "https://share.libbyapp.com/title/5431654",
+        "titleId": "5431654"
+      },
+      "author": "Simon Stephenson",
+      "publisher": "HarlequinAudio",
+      "isbn": "9781488209468",
+      "timestamp": 1685974589000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{16B7DAD6-C1DF-476C-94D2-0A64F3EFFA67}IMG100.JPG",
+        "title": "Elantris",
+        "color": "#3A4547",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Elantris",
+        "url": "https://share.libbyapp.com/title/3783363",
+        "titleId": "3783363"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781501902062",
+      "timestamp": 1684010127000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{A3A20BCF-5C1B-4A4E-89D5-BA6682059B58}IMG100.JPG",
+        "title": "Warbreaker",
+        "color": "#665B61",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Warbreaker",
+        "url": "https://share.libbyapp.com/title/2962220",
+        "titleId": "2962220"
+      },
+      "author": "Brandon Sanderson",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781501915925",
+      "timestamp": 1683211721000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{9FC2C02D-70E3-4A38-9724-B17384513F5B}IMG100.JPG",
+        "title": "Code 6",
+        "color": "#240000",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Code 6",
+        "url": "https://share.libbyapp.com/title/8884220",
+        "titleId": "8884220"
+      },
+      "author": "James Grippando",
+      "publisher": "HarperCollins",
+      "isbn": "9780063223820",
+      "timestamp": 1682896808000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{25499CE3-A8AB-4AE8-9C5F-14FAC7159B47}Img100.jpg",
+        "title": "Wrath of Poseidon",
+        "color": "#09396A",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Wrath of Poseidon",
+        "url": "https://share.libbyapp.com/title/4948091",
+        "titleId": "4948091"
+      },
+      "author": "Clive Cussler, Robin Burcell",
+      "publisher": "Books on Tape",
+      "isbn": "9780593169056",
+      "timestamp": 1678509252000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{ABC2EDCF-D7A8-4961-822D-FCBB1A6E3664}Img100.jpg",
+        "title": "The Oracle",
+        "color": "#6AA8D7",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Oracle",
+        "url": "https://share.libbyapp.com/title/4489524",
+        "titleId": "4489524"
+      },
+      "author": "Clive Cussler, Robin Burcell",
+      "publisher": "Books on Tape",
+      "isbn": "9780593103975",
+      "timestamp": 1676649584000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{A2052D04-1C15-4E24-87ED-805EFD7EFF62}Img100.jpg",
+        "title": "The Gray Ghost",
+        "color": "#150D0B",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Gray Ghost",
+        "url": "https://share.libbyapp.com/title/3531787",
+        "titleId": "3531787"
+      },
+      "author": "Clive Cussler, Robin Burcell",
+      "publisher": "Books on Tape",
+      "isbn": "9780525592440",
+      "timestamp": 1676403530000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{BE398611-1118-47BC-9D39-F56FD871A66A}Img100.jpg",
+        "title": "The Romanov Ransom",
+        "color": "#5BA2D8",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Romanov Ransom",
+        "url": "https://share.libbyapp.com/title/3116702",
+        "titleId": "3116702"
+      },
+      "author": "Clive Cussler, Robin Burcell",
+      "publisher": "Books on Tape",
+      "isbn": "9780525497233",
+      "timestamp": 1675813276000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{DFFBD9D4-A163-4E4B-9D64-A188EC9F4AA4}Img100.jpg",
+        "title": "Pirate",
+        "color": "#0C4781",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Pirate",
+        "url": "https://share.libbyapp.com/title/2629457",
+        "titleId": "2629457"
+      },
+      "author": "Clive Cussler, Robin Burcell",
+      "publisher": "Books on Tape",
+      "isbn": "9780735288379",
+      "timestamp": 1674830786000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{6115E1C1-3137-488C-8636-27829ECB12B2}Img100.jpg",
+        "title": "When No One Is Watching",
+        "color": "#1C2721",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "When No One Is Watching",
+        "url": "https://share.libbyapp.com/title/5217592",
+        "titleId": "5217592"
+      },
+      "author": "Alyssa Cole",
+      "publisher": "HarperCollins",
+      "isbn": "9780063036048",
+      "timestamp": 1674773886000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{5E427E71-3455-47E7-9F43-540653F3DDB4}Img100.jpg",
+        "title": "The Solomon Curse",
+        "color": "#358DB3",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Solomon Curse",
+        "url": "https://share.libbyapp.com/title/2160482",
+        "titleId": "2160482"
+      },
+      "author": "Clive Cussler, Russell Blake",
+      "publisher": "Books on Tape",
+      "isbn": "9780698409620",
+      "timestamp": 1674444475000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{43B8BEE8-4F81-4E6A-942D-E733E8150DEF}Img100.jpg",
+        "title": "The Eye of Heaven",
+        "color": "#030504",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Eye of Heaven",
+        "url": "https://share.libbyapp.com/title/1646662",
+        "titleId": "1646662"
+      },
+      "author": "Clive Cussler, Russell Blake",
+      "publisher": "Books on Tape",
+      "isbn": "9780553545425",
+      "timestamp": 1674088131000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{9B24B91A-4226-4FF3-ADC2-44CE253F7695}Img100.jpg",
+        "title": "Mayan Secrets",
+        "color": "#272226",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Mayan Secrets",
+        "url": "https://share.libbyapp.com/title/2617039",
+        "titleId": "2617039"
+      },
+      "author": "Clive Cussler, Thomas Perry",
+      "publisher": "Recorded Books, Inc.",
+      "timestamp": 1673453741000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{AC0CC755-EA82-4574-9EC6-48A8B59FC805}Img100.jpg",
+        "title": "The Tombs",
+        "color": "#030303",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Tombs",
+        "url": "https://share.libbyapp.com/title/2617239",
+        "titleId": "2617239"
+      },
+      "author": "Clive Cussler, Thomas Perry",
+      "publisher": "Recorded Books, Inc.",
+      "timestamp": 1673037591000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0211-1/{985F36CE-9191-4BE1-B8A7-683FD3B0B716}IMG100.JPG",
+        "title": "In Search of Lost Time",
+        "color": "#181914",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "In Search of Lost Time",
+        "url": "https://share.libbyapp.com/title/252237",
+        "titleId": "252237"
+      },
+      "author": "Marcel Proust",
+      "publisher": "BBC Audio",
+      "isbn": "9781408439180",
+      "timestamp": 1673037533000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{0DD093CE-FBC5-459E-9E33-3FE064D1A11F}Img100.jpg",
+        "title": "The Kingdom",
+        "color": "#413020",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Kingdom",
+        "url": "https://share.libbyapp.com/title/2617193",
+        "titleId": "2617193"
+      },
+      "author": "Clive Cussler, Grant Blackwood",
+      "publisher": "Recorded Books, Inc.",
+      "timestamp": 1671461324000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{0B94DAF1-394C-4FBC-A47B-17EFCBFF4D6A}Img100.jpg",
+        "title": "Lost Empire",
+        "color": "#FBCC96",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Lost Empire",
+        "url": "https://share.libbyapp.com/title/320035",
+        "titleId": "320035"
+      },
+      "author": "Clive Cussler, Grant Blackwood",
+      "publisher": "Books on Tape",
+      "isbn": "9781101436691",
+      "timestamp": 1671380564000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{7B6AF753-1AD4-4DF2-9CAB-29F6AF7BE12A}IMG100.JPG",
+        "title": "Death's End",
+        "color": "#070707",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Death's End",
+        "url": "https://share.libbyapp.com/title/2938117",
+        "titleId": "2938117"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427268303",
+      "timestamp": 1669505651000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0992-1/{5E2090B1-66F8-4207-B3BA-264DA2037B49}Img100.jpg",
+        "title": "Remembrance of Things Past, Volume I",
+        "color": "#8C002D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Remembrance of Things Past, Volume I",
+        "url": "https://share.libbyapp.com/title/69715",
+        "titleId": "69715"
+      },
+      "author": "Marcel Proust",
+      "publisher": "Naxos AudioBooks",
+      "timestamp": 1669001307000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{F9926FA1-2D46-4746-9CFB-E9BC877BF59A}Img100.jpg",
+        "title": "Sacred Stone",
+        "color": "#F7F6E1",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Sacred Stone",
+        "url": "https://share.libbyapp.com/title/2637728",
+        "titleId": "2637728"
+      },
+      "author": "Clive Cussler, Craig Dirgo",
+      "publisher": "Books on Tape",
+      "isbn": "9781524722166",
+      "timestamp": 1668563175000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{4CC792D4-DDF9-447B-9E40-1B65EAD49284}Img100.jpg",
+        "title": "The Adventures of Vin Fiz",
+        "color": "#B0D3F1",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Adventures of Vin Fiz",
+        "url": "https://share.libbyapp.com/title/3337205",
+        "titleId": "3337205"
+      },
+      "author": "Clive Cussler",
+      "publisher": "Books on Tape",
+      "isbn": "9780525592556",
+      "timestamp": 1668183101000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{AB381B9D-BD27-49B8-AC02-F2B531290E27}Img100.jpg",
+        "title": "Lost City",
+        "color": "#F7F6E1",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Lost City",
+        "url": "https://share.libbyapp.com/title/276776",
+        "titleId": "276776"
+      },
+      "author": "Clive Cussler",
+      "publisher": "Books on Tape",
+      "isbn": "9781101154366",
+      "timestamp": 1668183014000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{FE939BD8-3A94-47C6-9C08-B3A6839E8E6B}Img100.jpg",
+        "title": "Spartan Gold",
+        "color": "#C3C5B7",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Spartan Gold",
+        "url": "https://share.libbyapp.com/title/225400",
+        "titleId": "225400"
+      },
+      "author": "Clive Cussler, Grant Blackwood",
+      "publisher": "Books on Tape",
+      "isbn": "9781101154151",
+      "timestamp": 1667870453000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{DA8DEE61-0D72-474D-A6C6-4A5B3075EF93}Img100.jpg",
+        "title": "Golden Buddha",
+        "color": "#F8C126",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Golden Buddha",
+        "url": "https://share.libbyapp.com/title/2616979",
+        "titleId": "2616979"
+      },
+      "author": "Clive Cussler, Craig Dirgo",
+      "publisher": "Recorded Books, Inc.",
+      "timestamp": 1666878693000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1523-1/{83D59BB2-74E1-427D-80F9-A674738EA15F}Img100.jpg",
+        "title": "The Chase",
+        "color": "#56BFEC",
+        "format": "ebook"
+      },
+      "title": {
+        "text": "The Chase",
+        "url": "https://share.libbyapp.com/title/204353",
+        "titleId": "204353"
+      },
+      "author": "Clive Cussler",
+      "publisher": "Penguin Publishing Group",
+      "isbn": "9781101207581",
+      "timestamp": 1666878481000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/5054-1/{8A313AC4-F5F3-427D-8ADD-5D4B694F91F3}Img100.jpg",
+        "title": "Tell Me an Ending",
+        "color": "#87BAD7",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Tell Me an Ending",
+        "url": "https://share.libbyapp.com/title/6384006",
+        "titleId": "6384006"
+      },
+      "author": "Jo Harkin",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781797135571",
+      "timestamp": 1666185741000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{CC631477-9966-4BE4-87CC-139EE0CC5BE9}IMG100.JPG",
+        "title": "Private Label",
+        "color": "#F2C67F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Private Label",
+        "url": "https://share.libbyapp.com/title/7456149",
+        "titleId": "7456149"
+      },
+      "author": "Kelly Yang",
+      "publisher": "HarperCollins",
+      "isbn": "9780063250222",
+      "timestamp": 1665255588000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/5054-1/{8E32A54D-E08C-45E2-A93D-C00FD3FEAEF5}Img100.jpg",
+        "title": "And Every Morning the Way Home Gets Longer and Longer",
+        "color": "#C5C4D6",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "And Every Morning the Way Home Gets Longer and Longer",
+        "url": "https://share.libbyapp.com/title/2875650",
+        "titleId": "2875650"
+      },
+      "author": "Fredrik Backman",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781508230724",
+      "timestamp": 1664458088000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{533BA0A9-7E4C-434E-BFDF-104D95D4639D}IMG100.JPG",
+        "title": "The Paris Apartment",
+        "color": "#0B3D3E",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Paris Apartment",
+        "url": "https://share.libbyapp.com/title/6415110",
+        "titleId": "6415110"
+      },
+      "author": "Lucy Foley",
+      "publisher": "HarperCollins",
+      "isbn": "9780063003088",
+      "timestamp": 1662339365000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{7B6AF753-1AD4-4DF2-9CAB-29F6AF7BE12A}IMG100.JPG",
+        "title": "Death's End",
+        "color": "#070707",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Death's End",
+        "url": "https://share.libbyapp.com/title/2938117",
+        "titleId": "2938117"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427268303",
+      "timestamp": 1662339154000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1493-1/{6CD5999B-84C7-4BF0-B60C-873907CEC96F}IMG100.JPG",
+        "title": "The Dark Forest",
+        "color": "#1E191D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Dark Forest",
+        "url": "https://share.libbyapp.com/title/2259676",
+        "titleId": "2259676"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427268297",
+      "timestamp": 1660915724000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{E865FBC4-6E05-4F87-B780-728E64158A2C}IMG100.JPG",
+        "title": "The Three-Body Problem",
+        "color": "#1D487D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Three-Body Problem",
+        "url": "https://share.libbyapp.com/title/2001573",
+        "titleId": "2001573"
+      },
+      "author": "Cixin Liu",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781427251992",
+      "timestamp": 1659450152000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{2FD90856-6BA2-4CA8-9400-E26A9AA77B17}IMG100.JPG",
+        "title": "The Farthest Shore",
+        "color": "#49464F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Farthest Shore",
+        "url": "https://share.libbyapp.com/title/2360494",
+        "titleId": "2360494"
+      },
+      "author": "Ursula K. Le Guin",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781449840822",
+      "timestamp": 1659212361000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{3DB7F39C-52C2-49D1-B409-B255C71D6E9E}IMG100.JPG",
+        "title": "Where the Crawdads Sing",
+        "color": "#F6B595",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Where the Crawdads Sing",
+        "url": "https://share.libbyapp.com/title/3707522",
+        "titleId": "3707522"
+      },
+      "author": "Delia Owens",
+      "publisher": "Books on Tape",
+      "isbn": "9780525640370",
+      "timestamp": 1657029158000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0739-1/{A91D57DC-5917-4904-B613-2747E1EAD831}IMG100.JPG",
+        "title": "The Power of Now",
+        "color": "#090909",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Power of Now",
+        "url": "https://share.libbyapp.com/title/64945",
+        "titleId": "64945"
+      },
+      "author": "Eckhart Tolle",
+      "publisher": "New World Library",
+      "isbn": "9781577313755",
+      "timestamp": 1656354090000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1694-1/{637A7E3E-F749-40EA-BDCE-2D0E30A1F1B9}IMG100.JPG",
+        "title": "The Tombs of Atuan",
+        "color": "#A1371F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Tombs of Atuan",
+        "url": "https://share.libbyapp.com/title/2394243",
+        "titleId": "2394243"
+      },
+      "author": "Ursula K. Le Guin",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781449840839",
+      "timestamp": 1656041740000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1694-1/{7641BFC5-5204-4255-9B38-D9BBEB0E8045}Img100.jpg",
+        "title": "A Wizard of Earthsea",
+        "color": "#AA2230",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "A Wizard of Earthsea",
+        "url": "https://share.libbyapp.com/title/2393576",
+        "titleId": "2393576"
+      },
+      "author": "Ursula K. Le Guin",
+      "publisher": "Recorded Books, Inc.",
+      "isbn": "9781436143837",
+      "timestamp": 1655327848000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{20E37114-211F-400A-9418-5896BFBB729A}Img100.jpg",
+        "title": "Traffic",
+        "color": "#FFFFFF",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Traffic",
+        "url": "https://share.libbyapp.com/title/169889",
+        "titleId": "169889"
+      },
+      "author": "Tom Vanderbilt",
+      "publisher": "Books on Tape",
+      "isbn": "9781415956090",
+      "timestamp": 1654875469000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0887-1/{567D4340-4EF4-4023-879B-327AEA08C9A3}IMG100.JPG",
+        "title": "False Witness",
+        "color": "#203530",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "False Witness",
+        "url": "https://share.libbyapp.com/title/6193872",
+        "titleId": "6193872"
+      },
+      "author": "Karin Slaughter",
+      "publisher": "Blackstone Publishing",
+      "isbn": "9781504780292",
+      "timestamp": 1654113967000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/0293-1/{C3495944-3441-42AF-AB99-79D471554F45}Img100.jpg",
+        "title": "Find Me",
+        "color": "#288CC7",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Find Me",
+        "url": "https://share.libbyapp.com/title/5418163",
+        "titleId": "5418163"
+      },
+      "author": "Alafair Burke",
+      "publisher": "HarperCollins",
+      "isbn": "9780062985019",
+      "timestamp": 1653315964000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/5054-1/{DD4C3C32-4BE1-4C36-ABB5-899350647FBC}Img100.jpg",
+        "title": "The Favorite Sister",
+        "color": "#2D1C26",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Favorite Sister",
+        "url": "https://share.libbyapp.com/title/3682344",
+        "titleId": "3682344"
+      },
+      "author": "Jessica Knoll",
+      "publisher": "Simon & Schuster Audio",
+      "isbn": "9781508232933",
+      "timestamp": 1653108487000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/0293-1/{CB9784C0-C678-44CC-812F-A1CB418CA0CC}Img100.jpg",
+        "title": "The Shepherd's Crown",
+        "color": "#015270",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Shepherd's Crown",
+        "url": "https://share.libbyapp.com/title/2386294",
+        "titleId": "2386294"
+      },
+      "author": "Terry Pratchett",
+      "publisher": "HarperCollins",
+      "isbn": "9780062430557",
+      "timestamp": 1653107359000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/0293-1/{D643292C-3BC8-4E0E-B740-5FD3EA5A2E78}Img100.jpg",
+        "title": "No One Will Miss Her",
+        "color": "#121315",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "No One Will Miss Her",
+        "url": "https://share.libbyapp.com/title/6143355",
+        "titleId": "6143355"
+      },
+      "author": "Kat Rosenfield",
+      "publisher": "HarperCollins",
+      "isbn": "9780063057043",
+      "timestamp": 1652563305000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    }
+  ]
+}
