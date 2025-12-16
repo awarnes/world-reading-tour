@@ -1,10 +1,9 @@
-<script setup lang="ts">
-import type { Book } from '../types'
-const { timeline } = defineProps<{ timeline: any[] }>()
+<script setup>
+const { timeline } = defineProps(['timeline'])
 
 const yearGroups = Object.groupBy(timeline.sort((a,b) => a.timestamp - b.timestamp), ({timestamp}) => new Date(timestamp).getFullYear())
 
-function formatReadTimestamp(timestamp: number) {
+function formatReadTimestamp(timestamp) {
   const date = new Date(timestamp);
 
   return `${date.getMonth() + 1} / ${date.getFullYear()}`
