@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import countries from './assets/country-book-data.json'
-import {timeline} from './assets/timeline-12-15-2025.json'
+import {timeline} from './assets/timeline-01-03-2026.json'
 import ReadList from './components/ReadList.vue'
 import BookList from './components/BookList.vue'
 import FullMap from './components/FullMap.vue'
