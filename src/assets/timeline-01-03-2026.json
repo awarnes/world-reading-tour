@@ -3,6 +3,181 @@
     {
       "cover": {
         "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{922E694C-77FA-4457-BCD5-FF9CBA99659D}Img100.jpg",
+        "title": "Spinning Silver",
+        "color": "#6E9FB0",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Spinning Silver",
+        "url": "https://share.libbyapp.com/title/3682209",
+        "titleId": "3682209"
+      },
+      "author": "Naomi Novik",
+      "publisher": "Books on Tape",
+      "isbn": "9780525530992",
+      "timestamp": 1767021550000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1191-1/{F2C7E841-D879-4455-96F1-9C122D80DE71}IMG100.JPG",
+        "title": "The Golden Enclaves",
+        "color": "#060C08",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Golden Enclaves",
+        "url": "https://share.libbyapp.com/title/8098327",
+        "titleId": "8098327"
+      },
+      "author": "Naomi Novik",
+      "publisher": "Books on Tape",
+      "isbn": "9780593287453",
+      "timestamp": 1766685745000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/1191-1/{8C3DD869-2A7F-4A29-B2E1-D0F5F8337328}IMG100.JPG",
+        "title": "The Life Impossible",
+        "color": "#0067B2",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Life Impossible",
+        "url": "https://share.libbyapp.com/title/10108946",
+        "titleId": "10108946"
+      },
+      "author": "Matt Haig",
+      "publisher": "Books on Tape",
+      "isbn": "9780593910474",
+      "timestamp": 1766358341000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img2.od-cdn.com/ImageType-100/1191-1/{729E9EB8-FFEE-44E3-B4EC-43F853CCFC0B}Img100.jpg",
+        "title": "The Last Graduate",
+        "color": "#F2D59D",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Last Graduate",
+        "url": "https://share.libbyapp.com/title/5761797",
+        "titleId": "5761797"
+      },
+      "author": "Naomi Novik",
+      "publisher": "Books on Tape",
+      "isbn": "9780593287439",
+      "timestamp": 1766357917000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/1493-1/{09C67833-3EFD-4CA6-A682-F1FEB53FCA9A}IMG100.JPG",
+        "title": "Service Model",
+        "color": "#3A2C21",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Service Model",
+        "url": "https://share.libbyapp.com/title/10250315",
+        "titleId": "10250315"
+      },
+      "author": "Adrian Tchaikovsky",
+      "publisher": "Macmillan Audio",
+      "isbn": "9781250351210",
+      "timestamp": 1766157921000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img3.od-cdn.com/ImageType-100/2343-1/{FCE59C2E-00A2-4183-AA83-CE4FA08B7B95}IMG100.JPG",
+        "title": "The Housemaid",
+        "color": "#090B17",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "The Housemaid",
+        "url": "https://share.libbyapp.com/title/12025610",
+        "titleId": "12025610"
+      },
+      "author": "Freida McFadden",
+      "publisher": "Bookouture",
+      "isbn": "9781803144399",
+      "timestamp": 1766003660000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
+        "url": "https://img1.od-cdn.com/ImageType-100/4575-1/{F044134D-50B5-444B-BA35-25FDA7ACA197}IMG100.JPG",
+        "title": "Alien Clay",
+        "color": "#F77C1F",
+        "format": "audiobook"
+      },
+      "title": {
+        "text": "Alien Clay",
+        "url": "https://share.libbyapp.com/title/10234401",
+        "titleId": "10234401"
+      },
+      "author": "Adrian Tchaikovsky",
+      "publisher": "Hachette Audio",
+      "isbn": "9781668642702",
+      "timestamp": 1765895555000,
+      "activity": "Borrowed",
+      "details": " 20 days ",
+      "library": {
+        "text": "Multnomah County Library",
+        "url": "https://libbyapp.com/library/multcolib",
+        "key": "multcolib"
+      }
+    },
+    {
+      "cover": {
+        "contentType": "image/jpeg",
         "url": "https://img2.od-cdn.com/ImageType-100/1694-1/{D82BD5E1-796F-4D07-BE36-584AF99DE7FA}IMG100.JPG",
         "title": "The Overstory",
         "color": "#2A1E12",
